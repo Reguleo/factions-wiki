@@ -13,7 +13,7 @@ Reguleo (generally shortened to "leo" or "reg") is an admin of Hamium.
 
 ###### Season 3
 
-During season 3 he founded the new [Greenies](/factions/tg.md).
+During season 3 he founded the new [Greenies](/factions/gc.md).
 
 ###### Season 4
 
